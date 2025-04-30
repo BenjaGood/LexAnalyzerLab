@@ -3,24 +3,6 @@ Lexical Analyzer for AC Language
 
 Purpose: Build a lexical analyzer that recognizes comments, declarations, assignments, and print statements in the AC teaching language. This is part of the compiler front‑end lab.
 
-Repository Structure
-
-lexanalyzer/
-├── Makefile
-├── README.md
-├── source/
-│   └── analyzer.l
-├── code_generator.py
-└── tests/
-    ├── test1.ac
-    ├── ref1.txt
-    ├── test2.ac
-    ├── ref2.txt
-    ├── test3.ac
-    ├── ref3.txt
-    ├── test4.ac
-    └── ref4.txt
-
 Makefile: Build & test rules
 
 source/analyzer.l: Flex lexer specification

@@ -1,0 +1,7 @@
+COMMENT
+float_decl identifier
+int_decl identifier
+id_assign_int
+id_assign_id_plus_float
+print identifier
+COMMENT
